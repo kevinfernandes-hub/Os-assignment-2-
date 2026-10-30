@@ -1,0 +1,6 @@
+{
+  "name": "Mars Colony: Resource Management - OS Virtual Lab",
+  "description": "Interactive Operating Systems Virtual Lab simulating the Producer-Consumer process synchronization problem with semaphores, mutex locks, and circular buffer in a Mars colony environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
